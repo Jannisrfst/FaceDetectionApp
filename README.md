@@ -13,7 +13,7 @@ This Android application performs real-time face detection and analysis using on
 
 ## Technology Stack
 
-* 🤖 **Backend/Core Logic:** Android (Java/Kotlin - inferred from Android context)
+* 🤖 **Backend/Core Logic:** Android (Java)
 * <0xF0><0x9F><0xA7><0xA0> **Machine Learning:** Google ML Kit Face Detection
 * 📸 **Camera:** Android CameraX API
 * 📱 **UI:** Android Views, ConstraintLayout
